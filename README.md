@@ -39,7 +39,7 @@ The module requires the following environment variables:
 Here's an example of how you can use this module:
 
 ```python
-from main import LangChainTelegraph
+from langchain_telegraph import LangChainTelegraph
 from langchain.tools import Tool
 from langchain.agents import AgentType
 
